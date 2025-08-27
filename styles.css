@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: white;
+  padding: 1rem;
+  border-bottom: 1px solid #e5e4e2;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links a {
+  margin-left: 6px;
+  text-decoration: none;
+  color: #353935;
+}
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+.btn-primary {
+  background-color: blue;
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
