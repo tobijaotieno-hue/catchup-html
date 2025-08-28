@@ -30,3 +30,38 @@ header {
   text-align: center;
   padding: 2rem;
 }
+
+.sub {
+  display: flex;
+  background-color: white;
+  justify-content: space-around;
+  align-items:center;
+  background-color: white;
+  
+}
+
+.sub-1 {
+  border: solid grey 2px;
+    flex-basis: 20%;
+    padding: 20px;
+}
+.sub-2 {
+  border: solid grey 2px;
+    flex-basis: 20%;
+    padding: 20px;
+}
+.sub-3 {
+  border: solid grey 2px;
+    flex-basis: 20%;
+    padding: 20px;
+}
+footer {
+  background-color:gainsboro;
+  padding: 25px;
+  text-align: center;
+}
+div {
+  padding: 15;
+  margin: 15;
+  border-radius: 7cm;
+}
